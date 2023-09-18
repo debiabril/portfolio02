@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "nombre": "HTML",
+        "porcentaje": 88
+    },
+    {
+        "id": 2,
+        "nombre": "CSS",
+        "porcentaje": 80
+    },
+    {
+        "id": 3,
+        "nombre": "BOOSTRAP",
+        "porcentaje": 90
+    },
+    {
+        "id": 4,
+        "nombre": "JavaScript",
+        "porcentaje": 80
+    },
+    {
+        "id": 5,
+        "nombre": "Inglés",
+        "porcentaje": 85
+    },
+    {
+        "id": 6,
+        "nombre": "Base de Datos MySQL",
+        "porcentaje": 50
+    },
+    {
+        "id": 7,
+        "nombre": "GitHub",
+        "porcentaje": 90
+    },
+    {
+        "id": 8,
+        "nombre": "Responsabilidad",
+        "porcentaje": 100
+    },
+    {
+        "id": 9,
+        "nombre": "Trabajo en equipo",
+        "porcentaje": 90
+    },
+    {
+        "id": 10,
+        "nombre": "Capacidad de Análisis",
+        "porcentaje": 80
+    },
+    {
+        "id": 11,
+        "nombre": "Proactividad",
+        "porcentaje": 95
+    },
+    {
+        "id": 12,
+        "nombre": "Resolución de problemas",
+        "porcentaje": 85
+    },
+    {
+        "id": 15,
+        "nombre": "Taildwind",
+        "porcentaje": 90
+    }
+]

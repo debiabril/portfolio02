@@ -1,0 +1,92 @@
+[
+    {
+        "id": 2,
+        "nombreE": "MindHub",
+        "descripcionE": "Bootcamp Desarrollador Web Front End. 180 horas de cursado. HTML5, CSS, Boostrap, JavaScript, Api's de terceros, JSON, GitHub, Responsive Design.",
+        "tituloE": "Desarrolladora Web Front End",
+        "fechaE": "Abril 2023",
+        "imgE": "https://images.credly.com/images/db619416-19a0-4c5b-b4f7-7e44d097f392/image.png",
+        "estadoE": "Finalizado"
+    },
+    {
+        "id": 5,
+        "nombreE": "Secretaría de Economía del Conocimiento ",
+        "descripcionE": "Curso de inglés técnico para desarrollo de software",
+        "tituloE": "Inglés Técnico para Desarrolladores de Software",
+        "fechaE": "Octubre 2022",
+        "imgE": "https://pbs.twimg.com/profile_images/1639630487340609537/BvHerKa3_400x400.jpg",
+        "estadoE": "Finalizado"
+    },
+    {
+        "id": 6,
+        "nombreE": "Coursera",
+        "descripcionE": "Aspectos básicos. Formulación de preguntas para tomar desiciones basadas en datos. Preparar datos para la exploración",
+        "tituloE": "Cursos de análisis de Datos",
+        "fechaE": "Desde: 08/2022 hasta: 11/2022",
+        "imgE": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png",
+        "estadoE": "Finalizado"
+    },
+    {
+        "id": 7,
+        "nombreE": "Telecom",
+        "descripcionE": "Programa Digit@lers. Certificación Desarrolladora Full Stack con Java en conjunto con Educación IT",
+        "tituloE": "Desarrolladora Full Stack ",
+        "fechaE": "Noviembre 2021",
+        "imgE": "https://brandemia.org/contenido/subidas/2021/10/05-telecom-argentina.jpg",
+        "estadoE": "Finalizado"
+    },
+    {
+        "id": 8,
+        "nombreE": "Educación IT",
+        "descripcionE": "Cursos certificado de JavaScript, Git, HTML5, Bases de datos y SQL, Java, Java Spring, Java Standard J2SE, Java Hibernate, ReactJS.",
+        "tituloE": "Cursos en Educación IT",
+        "fechaE": "Desde: 4/2021 hasta: 11/2021",
+        "imgE": "https://365.clarin.com/wp-content/uploads/2020/09/educacionITLogo.png",
+        "estadoE": "Finalizado"
+    },
+    {
+        "id": 9,
+        "nombreE": "Accenture",
+        "descripcionE": "Comunicación. Flexibilidad. Trabajo en equipo",
+        "tituloE": "Curso de Habilidades Blandas",
+        "fechaE": "Julio 2021",
+        "imgE": "https://www.movementtowork.com/wp-content/uploads/2020/06/Accenture-Logo.jpg",
+        "estadoE": "Finalizado"
+    },
+    {
+        "id": 10,
+        "nombreE": "CódigoFacilito",
+        "descripcionE": "Curso de Git ",
+        "tituloE": "Curso Profesional de Git",
+        "fechaE": "Junio 2021",
+        "imgE": "https://yt3.googleusercontent.com/ytc/AGIKgqOX4llKSNqsDbudlSUijkhi16JXTm__eeGD5QZfkQ=s900-c-k-c0x00ffffff-no-rj ",
+        "estadoE": "Finalizado"
+    },
+    {
+        "id": 11,
+        "nombreE": "Fundación Telefónica Movistar ",
+        "descripcionE": "Cursos certificado en Diseño Web con HTML5 y CSS3 y Programación con JavaScript",
+        "tituloE": "Diseño Web HTML y CSS y programación con JS",
+        "fechaE": "Marzo 2021",
+        "imgE": "https://yt3.googleusercontent.com/ytc/AOPolaQBAJasMA9BwpkMYq-4REg0lsXQtUypyRodBx4llA=s900-c-k-c0x00ffffff-no-rj",
+        "estadoE": "Finalizado"
+    },
+    {
+        "id": 12,
+        "nombreE": "Cessi- Cámara de la Industria Argentina del Software",
+        "descripcionE": "Nociones básicas de programación y programación orientada a objetos",
+        "tituloE": "Argentina Programa #SéProgramar ",
+        "fechaE": "Enero 2021",
+        "imgE": "https://yt3.googleusercontent.com/4HM_-p_YCTbyHFdDKLOd2DPr8QvHePQcq9v4404vHP4ojUD5H9h0Cj8MYY0EAgFWxKocR2bGgQc=s900-c-k-c0x00ffffff-no-rj",
+        "estadoE": "Finalizado"
+    },
+    {
+        "id": 13,
+        "nombreE": "Universidad Nacional de Rosario",
+        "descripcionE": "Licenciatura en Fonoaudiología",
+        "tituloE": "Licenciatura en Fonoaudiología",
+        "fechaE": "Desde 2014 hasta 2021",
+        "imgE": "https://www.fceia.unr.edu.ar/acustica/codecdigital/images/LogoUNR.gif",
+        "estadoE": "Incompleto"
+    }
+]
