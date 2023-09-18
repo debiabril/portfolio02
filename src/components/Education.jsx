@@ -5,14 +5,14 @@ export const Education = () => {
     return (
         <>
         <div className=' w-full h-full bg-education bg-cover '>
-        <div className='flex flex-wrap justify-end gap-6 pb-80 w-[80%] -z-10'>
+        <div className='flex flex-wrap  gap-6 pb-80 md:w-[80%] w-[50%] -z-10'>
         {educationJson?.map((education,index) =>{
             return (
-                <div className="card w-96 glass" key={index}>
+                <div className="card w-64 glass" key={index}>
                     <figure><img src={education.imgE} alt="car!"/></figure>
-                    <div className="card-body text-white">
+                    <div className="card-body text-white text-sm">
                         <h2 className="card-title font-bold">{education.tituloE}</h2>
-                        <p>{education.descripcionE}</p>
+                        <p className='text-xs'>{education.descripcionE}</p>
                         <p>{education.fechaE}</p>
                     </div>
                 </div>

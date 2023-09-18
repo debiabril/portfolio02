@@ -4,7 +4,7 @@ import foto from '../assets/cv.jpg'
 export const Hero = () => {
 
   return (
-    <div className="hero min-h-screen bg-herobg">
+    <div className="hero min-h-screen  bg-herobg">
         <div className="hero-content flex-col lg:flex-row h-[70vh] w-[70vw] md:w-[80vw] mb-40 bg-white-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md  bg-opacity-60 border border-gray-100 ">
             <img src={foto} className="h-40 md:max-w-sm lg:h-80 rounded-3xl shadow-2xl mx-10" />
             <div>
