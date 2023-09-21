@@ -4,7 +4,7 @@
         "nombreP": "Amazing Events",
         "descripcionP": "Proyecto desarrollado con HTML, CSS y JS",
         "imgP": "https://img.freepik.com/free-photo/amazing-beautiful-sky-with-clouds_58702-5816.jpg",
-        "fechaP": "Abril 2023",
+        "fechaP": "Marzo-Abril 2023",
         "linkP": "https://debiabril.github.io/AmazingEvents_BADOSA/index.html "
     },
     {
@@ -14,5 +14,14 @@
         "imgP": "https://i0.wp.com/craftingeek.me/wp-content/uploads/2020/08/que-colores-tiene-el-arcoiris-en-orden.jpg?fit=1280%2C767&ssl=1 ",
         "fechaP": "Abril 2023",
         "linkP": "https://dabfrontend-c7e01.web.app"
-    }
+    },
+    {
+        "id": 3,
+        "nombreP": "Mytinerary",  
+        "descripcionP": "Proyecto desarrollado con MERN (Mongo, Express, React y Node.js). Falta deployar y lo subo!",
+        "imgP": "https://guias.donweb.com/wp-content/uploads/2022/03/como-instalar-el-stack-mern-mongodb-express-react-y-node-en-ubuntu-20-04.jpg",
+        "fechaP": "Agosto-Semptiembre 2023",
+        "linkP": ""
+}
+
 ]
