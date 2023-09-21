@@ -5,7 +5,7 @@ export const Education = () => {
     return (
         <>
             <div className=' w-full h-full bg-education bg-cover '>
-                <div className='flex flex-wrap justify-end md:justify-center gap-3 mr-3 lg:gap-6 sm:pl-32 pb-80 sm:pr-8 lg:pr-0 pt-4 w-[97vw] -z-10'>
+                <div className='flex flex-wrap justify-end md:justify-center gap-3 mr-3 pr-3 lg:gap-6 sm:pl-32 pb-80 sm:pr-8 lg:pr-0 pt-4 w-[97vw] -z-10'>
                 {educationJson?.map((education,index) =>{
                     return (
                         <div className="card w-64 glass" key={index}>

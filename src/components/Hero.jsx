@@ -5,7 +5,7 @@ export const Hero = () => {
 
   return (
     <div className="hero min-h-screen max-h-[120vh] flex flex-wrap justify-end bg-herobg">
-        <div className="hero-content flex-col justify-center sm:flex-row w-[80vw] md:w-[70vw] mr-3 sm:mr-24 mb-40 bg-white-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-60 border border-gray-100">
+        <div className="hero-content flex-col justify-center mt-5 ml-20 sm:flex-row w-[80vw] md:w-[70vw] mr-3 sm:mr-24 mb-40 bg-white-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-60 border border-gray-100">
             <img src={foto} className="h-40 md:max-w-sm lg:h-80 rounded-3xl shadow-2xl mx-10" />
             <div>
             <h1 className="text-3xl font-bold text-gray-300 drop-shadow-lightShadow">¡Hola Soy Débora!</h1>
