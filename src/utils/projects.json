@@ -1,5 +1,27 @@
 [
     {
+        "id": 3,
+        "nombreP": "Página de ADN Soluciones Web",
+        "descripcionP": "Nos encontramos desarrollandola para mudarla a React.",
+        "imgP": "https://pps.whatsapp.net/v/t61.24694-24/355662756_991350965331492_6773008176244446553_n.jpg?ccb=11-4&oh=01_AdRi1YW6Ap2_OZBdSy5wGolZzRDO4-AJ1BBOidIUtqwr1g&oe=65198660&_nc_sid=000000&_nc_cat=110",
+        "fechaP": "Mayo 2023",
+        "linkP": "https://adnwebsolutions.github.io/ADN-Solutions/"
+    },
+    {
+        "id": 4,
+        "nombreP": "EcoAmbiental Desinfecciones",
+        "descripcionP": "Primer cliente de ADN, estamos mudando la página a react, y nosotros la hosteamos y nos encargamos del mantenimiento de la misma y las modificaciones",
+        "imgP": "https://www.ecoambientaldesinfecciones.com.ar/img/logo.svg",
+        "fechaP": "Junio 2023",
+        "linkP": "https://www.ecoambientaldesinfecciones.com.ar/"
+    },{ 
+        "id": 5,   
+        "nombreP": "Ozónica",
+        "descripcionP": "Segundo cliente, antes de que comenzemos el curso de MERN, se encuentra en desarrollo por tiempos del cliente",
+        "imgP": "https://adnwebsolutions.github.io/ozonica/assets/logo.png",
+        "fechaP": "Julio 2023",
+        "linkP": "https://adnwebsolutions.github.io/ozonica/"
+    },{
         "id": 1,
         "nombreP": "Amazing Events",
         "descripcionP": "Proyecto desarrollado con HTML, CSS y JS",
@@ -15,13 +37,14 @@
         "fechaP": "Abril 2023",
         "linkP": "https://dabfrontend-c7e01.web.app"
     },
+    
     {
-        "id": 3,
+        "id": 6,
         "nombreP": "Mytinerary",  
         "descripcionP": "Proyecto desarrollado con MERN (Mongo, Express, React y Node.js). Falta deployar y lo subo!",
         "imgP": "https://guias.donweb.com/wp-content/uploads/2022/03/como-instalar-el-stack-mern-mongodb-express-react-y-node-en-ubuntu-20-04.jpg",
         "fechaP": "Agosto-Semptiembre 2023",
         "linkP": ""
-}
+    }
 
 ]
