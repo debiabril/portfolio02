@@ -3,7 +3,7 @@
         "id": 1,
         "nombreP": "Amazing Events",
         "descripcionP": "Proyecto desarrollado con HTML, CSS y JS",
-        "imgP": "./amazing.png",
+        "imgP": "https://img.freepik.com/free-photo/amazing-beautiful-sky-with-clouds_58702-5816.jpg",
         "fechaP": "Abril 2023",
         "linkP": "https://debiabril.github.io/AmazingEvents_BADOSA/index.html "
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "nombreP": "Portfolio Editable",
         "descripcionP": "Portfolio editable desde el front end, desarrollado con Angular, Java y MySQL",
-        "imgP": "https://www.seekpng.com/png/detail/111-1112824_picture-my-portfolio-logo-png.png ",
+        "imgP": "https://i0.wp.com/craftingeek.me/wp-content/uploads/2020/08/que-colores-tiene-el-arcoiris-en-orden.jpg?fit=1280%2C767&ssl=1 ",
         "fechaP": "Abril 2023",
         "linkP": "https://dabfrontend-c7e01.web.app"
     }
