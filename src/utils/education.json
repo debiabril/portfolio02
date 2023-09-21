@@ -1,5 +1,23 @@
 [
     {
+        "id": 1,
+        "nombreE": "MindHub",
+        "descripcionE": "Bootcamp Desarrollador Web FullStack. 180 horas de cursado. HTML5, CSS3, Javascript, Vue, Taildwind, el Stack de MERN (MongoDB, Express, React y Node.js)",
+        "tituloE": "Desarrolladora Web FullStack MERN",
+        "fechaE": "Septiembre 2023",
+        "imgE": "https://images.credly.com/size/680x680/images/be67019e-9d37-432b-bc29-18cdcb85917b/image.png",
+        "estadoE":"Finalizado"
+    },
+    {
+        "id": 3,
+        "nombreE": "Argentina Programa",
+        "descripcionE": "Curso Asincrónico. Evaluado con examenes en plataforma y un proyecto integrador de un Portfolio Editable. Realizado con Angular.js, Typescript, Html, Css, Bootstrap, Java, SpringBoot, Maven, Render, Docker, MySQL y Apache.",
+        "tituloE": "Web Fullstack Junior. #YoProgramo",
+        "fechaE": "Julio 2023",
+        "imgE": "https://yt3.googleusercontent.com/4HM_-p_YCTbyHFdDKLOd2DPr8QvHePQcq9v4404vHP4ojUD5H9h0Cj8MYY0EAgFWxKocR2bGgQc=s900-c-k-c0x00ffffff-no-rj",
+        "estadoE": "Finalizado"
+    },
+    {
         "id": 2,
         "nombreE": "MindHub",
         "descripcionE": "Bootcamp Desarrollador Web Front End. 180 horas de cursado. HTML5, CSS, Boostrap, JavaScript, Api's de terceros, JSON, GitHub, Responsive Design.",
