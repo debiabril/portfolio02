@@ -11,7 +11,7 @@
     },
     {
         "id": 3,
-        "nombre": "BOOSTRAP",
+        "nombre": "Boostrap",
         "porcentaje": 90
     },
     {
@@ -21,12 +21,12 @@
     },
     {
         "id": 5,
-        "nombre": "Inglés",
+        "nombre": "React.js",
         "porcentaje": 85
     },
     {
         "id": 6,
-        "nombre": "Base de Datos MySQL",
+        "nombre": "MySQL",
         "porcentaje": 50
     },
     {
@@ -36,32 +36,52 @@
     },
     {
         "id": 8,
-        "nombre": "Responsabilidad",
-        "porcentaje": 100
+        "nombre": "Taildwind",
+        "porcentaje": 90
     },
     {
         "id": 9,
-        "nombre": "Trabajo en equipo",
-        "porcentaje": 90
+        "nombre": "Node.js",
+        "porcentaje": 70
     },
     {
         "id": 10,
-        "nombre": "Capacidad de Análisis",
-        "porcentaje": 80
+        "nombre": "MongoDB",
+        "porcentaje": 50
     },
     {
         "id": 11,
-        "nombre": "Proactividad",
-        "porcentaje": 95
+        "nombre": "Passport",
+        "porcentaje": 50
     },
     {
         "id": 12,
-        "nombre": "Resolución de problemas",
-        "porcentaje": 85
+        "nombre": "JWT",
+        "porcentaje": 50
+    },
+    {
+        "id": 13,
+        "nombre": "Postman",
+        "porcentaje": 75
+    },
+    {
+        "id": 14,
+        "nombre": "Joi",
+        "porcentaje": 45
     },
     {
         "id": 15,
-        "nombre": "Taildwind",
-        "porcentaje": 90
+        "nombre": "Express.js",
+        "porcentaje": 50
+    },
+    {
+        "id": 16,
+        "nombre": "Redux",
+        "porcentaje": 80
+    },
+    {
+        "id": 17,
+        "nombre": "Inglés",
+        "porcentaje": 80
     }
 ]

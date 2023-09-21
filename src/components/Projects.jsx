@@ -5,7 +5,7 @@ export const Projects = () => {
     return (
         <>
         <div className=' w-full h-full bg-project  bg-cover'>
-        <div className='flex flex-wrap justify-end gap-6 pb-80 sm:pr-10 lg:pr-0 pt-4 w-[97vw] -z-10'>
+        <div className='flex flex-wrap justify-end md:justify-center gap-6 pb-80 sm:pr-10 lg:pr-0 pt-4 w-[97vw] -z-10'>
             {
                 projectJason?.map((project,index) =>{
                     return(
@@ -16,7 +16,7 @@ export const Projects = () => {
                                 <p>{project.descripcionP}</p>
                                 <p>{project.fechaP}</p>
                                 <div className="card-actions justify-end">
-                                    <a href={project.linkP}className="btn btn-primary">Link Proyecto</a>
+                                    <a target='_blank' href={project.linkP}className="btn btn-primary">Link Proyecto</a>
                                 </div>
                             </div>
                         </div>

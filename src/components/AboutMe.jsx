@@ -2,8 +2,8 @@ import React from 'react'
 
 export const AboutMe = () => {
     return (
-        <div className='bg-aboutme w-full bg-cover bg-center flex justify-end items-center'>
-            <div className='flex flex-col justify-center items-center w-[70vw] sm:w-[50vw] min-h-screen bg-white-100 rounded-lg bg-clip-padding backdrop-filter backdrop-blur-md  bg-opacity-60 h-[100%] text-white'>
+        <div className='bg-aboutme w-full min-h-screen max-h-[130vh] bg-cover bg-center flex justify-end sm:justify-center items-center'>
+            <div className='flex flex-col justify-center items-center w-[70vw] sm:w-[50vw] min-h-screen mb-20 bg-white-100 rounded-lg bg-clip-padding backdrop-filter backdrop-blur-md  bg-opacity-60 h-[100%] text-white'>
                 <p className='text-center md:font-bold text-purple-400 '>Antes que nada prefiero que me digan Debi💖! </p>
                 <p className='text-center md:font-bold text-blue-400'>Amo a mi gato Leo 😻, los colores 🌈, la música 🎵🎶 y bailar 💃.</p>
                 <p className='text-center md:font-bold text-lime-400'>Estando a unas materias de recibirme de licenciada en Fonoaudiología 🎓 vino la pandemia 😷 y con ella el comienzo del camino de conocerme ✨.</p>

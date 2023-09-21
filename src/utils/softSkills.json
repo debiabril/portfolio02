@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nombre": "Resolución de problemas",
+        "porcentaje": 85
+    },
+    {
+        "id": 8,
+        "nombre": "Responsabilidad",
+        "porcentaje": 100
+    },
+    {
+        "id": 9,
+        "nombre": "Trabajo en equipo",
+        "porcentaje": 90
+    },
+    {
+        "id": 10,
+        "nombre": "Capacidad de Análisis",
+        "porcentaje": 80
+    },
+    {
+        "id": 11,
+        "nombre": "Proactividad",
+        "porcentaje": 95
+    }
+]
