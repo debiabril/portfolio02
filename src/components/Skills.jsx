@@ -17,7 +17,7 @@ export const Skills = () => {
                         <div className="radial-progress mb-1 bg-purple-800 text-primary-content border-4 border-purple-800"  style={{"--value":100, "--thickness": "3px" }}>
                             <img src={skill.img} className='rounded-full h-20 w-20 object-cover' />
                         </div>
-                        <div className=' p-2 text-white rounded-lg flex  bg-black text-bold text-center font-bold '>{skill.nombre}</div>
+                        <div className=' p-2 text-white rounded-lg flex  bg-gray-950 text-bold text-center font-bold '>{skill.nombre}</div>
                     </div>)
                 })
             }
