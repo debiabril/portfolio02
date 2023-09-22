@@ -9,8 +9,8 @@ export const Projects = () => {
             {
                 projectJason?.map((project,index) =>{
                     return(
-                        <div className="card w-64 sm:w-72 glass" key={index}>
-                            <figure><img src={project.imgP} alt="car!"/></figure>
+                        <div className="card w-60 sm:w-72 glass" key={index}>
+                            <figure><img className='h-72 object-cover' src={project.imgP} alt="car!"/></figure>
                             <div className="card-body text-white">
                                 <h2 className="card-title font-bold">{project.nombreP}</h2>
                                 <p>{project.descripcionP}</p>
