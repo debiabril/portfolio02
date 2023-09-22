@@ -5,22 +5,22 @@
         "porcentaje": 85
     },
     {
-        "id": 8,
+        "id": 2,
         "nombre": "Responsabilidad",
         "porcentaje": 100
     },
     {
-        "id": 9,
+        "id": 3,
         "nombre": "Trabajo en equipo",
         "porcentaje": 90
     },
     {
-        "id": 10,
+        "id": 4,
         "nombre": "Capacidad de Análisis",
         "porcentaje": 80
     },
     {
-        "id": 11,
+        "id": 5,
         "nombre": "Proactividad",
         "porcentaje": 95
     }
