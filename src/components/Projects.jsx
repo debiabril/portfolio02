@@ -4,7 +4,7 @@ import projectJason from '../utils/projects.json'
 export const Projects = () => {
     return (
         <>
-        <div className=' w-full h-full bg-project  bg-cover'>
+        <div className=' w-full h-full bg-education bg-cover'>
         <div className='flex flex-wrap justify-end md:justify-center pr-3 gap-6 pb-80 sm:pr-10 sm:pl-32 lg:pr-0 pt-4 w-[97vw] -z-10'>
             {
                 projectJason?.map((project,index) =>{

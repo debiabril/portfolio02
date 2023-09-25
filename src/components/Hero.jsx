@@ -4,9 +4,9 @@ import foto from '../assets/cv.jpg'
 export const Hero = () => {
 
   return (
-    <div className="hero min-h-screen max-h-[120vh] flex flex-wrap justify-end bg-herobg">
-        <div className="hero-content flex-col justify-center mt-5 ml-20 sm:flex-row w-[80vw] md:w-[70vw] mr-3 sm:mr-24 mb-40 bg-white-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-60 border border-gray-100 hover:-rotate-3 transition-transform duration-500 shadow-2xl">
-            <img src={foto} className="h-40 md:max-w-sm lg:h-80 rounded-3xl shadow-2xl mx-10" />
+    <div className="hero min-h-screen max-h-[120vh] flex flex-wrap justify-end lg:justify-center bg-herobg">
+        <div className="hero-content flex-col justify-center mt-5 ml-20 sm:flex-row w-[80vw] lg:w-[60vw] md:w-[70vw] mr-3 sm:mr-24 mb-40 bg-white-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-60 border border-gray-100 shadow-2xl">
+            <img src={foto} className="h-40 md:max-w-sm lg:h-80 rounded-full shadow-2xl mx-10" />
             <div>
             <h1 className="text-3xl font-bold text-gray-300 drop-shadow-lightShadow">¡Hola Soy Débora!</h1>
             <h2 className='text-2xl text-purple-500'>Desarrolladora Web Fullstack</h2>

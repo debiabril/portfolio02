@@ -8,7 +8,7 @@ export const Skills = () => {
     console.log(skillsJson); */
     return (
         <>
-            <div className=' w-full h-full bg-skillsMobile md:bg-skills bg-cover'>
+            <div className=' w-full h-full bg-herobg bg-cover'>
                 <div className='flex flex-wrap items-center justify-center gap-3 pr-3 px-16 md:px-56 pb-64 lg:pt-40'>
             {
                 skillsJson?.map((skill,index) =>{
