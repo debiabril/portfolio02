@@ -1,5 +1,12 @@
 [
     {
+        "id": 6,
+        "nombreP": "Mytinerary",  
+        "descripcionP": "Proyecto desarrollado con MERN (Mongo, Express, React y Node.js). ",
+        "imgP": "https://guias.donweb.com/wp-content/uploads/2022/03/como-instalar-el-stack-mern-mongodb-express-react-y-node-en-ubuntu-20-04.jpg",
+        "fechaP": "Agosto-Septiembre 2023",
+        "linkP": "https://debiabril.github.io/mytinerary-deboraBadosa/#/"
+    },{
         "id": 3,
         "nombreP": "Página de ADN Soluciones Web",
         "descripcionP": "Nos encontramos desarrollandola para mudarla a React.",
@@ -14,7 +21,9 @@
         "imgP": "https://www.ecoambientaldesinfecciones.com.ar/img/logo.svg",
         "fechaP": "Junio 2023",
         "linkP": "https://www.ecoambientaldesinfecciones.com.ar/"
-    },{ 
+    },
+    
+    { 
         "id": 5,   
         "nombreP": "Ozónica",
         "descripcionP": "Segundo cliente, antes de que comenzemos el curso de MERN, se encuentra en desarrollo por tiempos del cliente",
@@ -36,15 +45,5 @@
         "imgP": "https://i0.wp.com/craftingeek.me/wp-content/uploads/2020/08/que-colores-tiene-el-arcoiris-en-orden.jpg?fit=1280%2C767&ssl=1 ",
         "fechaP": "Abril 2023",
         "linkP": "https://dabfrontend-c7e01.web.app"
-    },
-    
-    {
-        "id": 6,
-        "nombreP": "Mytinerary",  
-        "descripcionP": "Proyecto desarrollado con MERN (Mongo, Express, React y Node.js). Falta deployar y lo subo!",
-        "imgP": "https://guias.donweb.com/wp-content/uploads/2022/03/como-instalar-el-stack-mern-mongodb-express-react-y-node-en-ubuntu-20-04.jpg",
-        "fechaP": "Agosto-Semptiembre 2023",
-        "linkP": ""
     }
-
 ]
