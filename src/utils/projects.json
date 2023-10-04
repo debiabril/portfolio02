@@ -4,13 +4,15 @@
         "nombreP": "Mytinerary",  
         "descripcionP": "Proyecto desarrollado con MERN (Mongo, Express, React y Node.js). ",
         "imgP": "https://thumbs2.imgbox.com/6c/35/WiCgj8un_t.png",
+        "gif":"",
         "fechaP": "Agosto-Septiembre 2023",
         "linkP": "https://debiabril.github.io/mytinerary-deboraBadosa/#/"
     },{
         "id": 3,
         "nombreP": "Página de ADN Soluciones Web",
         "descripcionP": "Nos encontramos desarrollandola para mudarla a React.",
-        "imgP": "https://thumbs2.imgbox.com/d0/6c/2Fp1Uehr_t.png",
+        "imgP": "https://images2.imgbox.com/5d/02/wI8YppSl_o.png",
+        "gif":"https://images2.imgbox.com/c9/a3/CCZYoNeV_o.gif",
         "fechaP": "Mayo 2023",
         "linkP": "https://adnwebsolutions.github.io/ADN-Solutions/"
     },
@@ -18,7 +20,8 @@
         "id": 4,
         "nombreP": "EcoAmbiental Desinfecciones",
         "descripcionP": "Primer cliente de ADN, estamos migrando la página a react, y nosotros la hosteamos y nos encargamos del mantenimiento de la misma y las modificaciones",
-        "imgP": "https://thumbs2.imgbox.com/a6/d3/v6kFaxkY_t.png",
+        "imgP": "https://images2.imgbox.com/5a/39/eoSjY1Hi_o.png",
+        "gif":"https://images2.imgbox.com/d8/4d/xljqpuGE_o.gif",
         "fechaP": "Junio 2023",
         "linkP": "https://www.ecoambientaldesinfecciones.com.ar/"
     },
@@ -27,7 +30,8 @@
         "id": 5,   
         "nombreP": "Ozónica",
         "descripcionP": "Segundo cliente, antes de que comenzemos el curso de MERN, se encuentra en desarrollo por tiempos del cliente",
-        "imgP": "https://thumbs2.imgbox.com/40/7c/pP7bftvk_t.png",
+        "imgP": "https://images2.imgbox.com/c1/a8/OPE57jbx_o.png",
+        "gif":"https://images2.imgbox.com/9d/36/5HND5nmX_o.gif",
         "fechaP": "Julio 2023",
         "linkP": "https://adnwebsolutions.github.io/ozonica/"
     },{
