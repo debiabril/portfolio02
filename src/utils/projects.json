@@ -1,5 +1,12 @@
 [
     {
+        "id": 7,
+        "nombreP": "Posts",  
+        "descripcionP": "Proyecto SSR (Server Side Render). Proyecto desarrollado con Node.js, Express.js y Sequelize y conectado a una base de datos MySQL",
+        "imgP": "https://images2.imgbox.com/93/b0/OVtNzcY4_o.png",
+        "fechaP": "Septiembre-Octubre 2023",
+        "linkP": "https://postsepica.onrender.com/posts"
+    },{
         "id": 6,
         "nombreP": "Mytinerary",  
         "descripcionP": "Proyecto desarrollado con MERN (Mongo, Express, React y Node.js). ",
@@ -22,7 +29,7 @@
         "descripcionP": "Primer cliente de ADN, estamos migrando la página a react, y nosotros la hosteamos y nos encargamos del mantenimiento de la misma y las modificaciones",
         "imgP": "https://images2.imgbox.com/5a/39/eoSjY1Hi_o.png",
         "gif":"https://images2.imgbox.com/d8/4d/xljqpuGE_o.gif",
-        "fechaP": "Junio 2023",
+        "fechaP": "Junio 2023- Actualidad",
         "linkP": "https://www.ecoambientaldesinfecciones.com.ar/"
     },
     
@@ -32,7 +39,7 @@
         "descripcionP": "Segundo cliente, antes de que comenzemos el curso de MERN, se encuentra en desarrollo por tiempos del cliente",
         "imgP": "https://images2.imgbox.com/c1/a8/OPE57jbx_o.png",
         "gif":"https://images2.imgbox.com/9d/36/5HND5nmX_o.gif",
-        "fechaP": "Julio 2023",
+        "fechaP": "Julio 2023- Actualidad",
         "linkP": "https://adnwebsolutions.github.io/ozonica/"
     },{
         "id": 1,
