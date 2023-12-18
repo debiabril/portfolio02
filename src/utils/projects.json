@@ -1,5 +1,12 @@
 [
     {
+        "id": 8,
+        "nombreP": "Imagina",  
+        "descripcionP": "Cliente de ADN Soluciones Web, se trata de una escuela de verano desarrollada en React",
+        "imgP": "https://thumbs2.imgbox.com/77/89/xjH3U9lz_t.png",
+        "fechaP": "Noviembre-Diciembre 2023",
+        "linkP": "https://www.imagina.ar/"
+    },{
         "id": 7,
         "nombreP": "Posts",  
         "descripcionP": "Proyecto SSR (Server Side Render). Proyecto desarrollado con Node.js, Express.js y Sequelize y conectado a una base de datos MySQL",
