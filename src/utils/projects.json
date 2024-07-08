@@ -1,5 +1,13 @@
 [
     {
+        "id": 9,
+        "nombreP": "JS Número secreto",  
+        "descripcionP": "Juego de adivinar el número secreto realizado con JS",
+        "imgP": "https://thumbs2.imgbox.com/78/ce/vIk1GKNb_t.png",
+        "fechaP": "Julio 2024",
+        "linkP": "https://debiabril.github.io/js-secret-game/"
+    },
+    {
         "id": 8,
         "nombreP": "Imagina",  
         "descripcionP": "Cliente de ADN Soluciones Web, se trata de una escuela de verano desarrollada en React",
