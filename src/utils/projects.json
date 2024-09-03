@@ -1,5 +1,12 @@
 [
     {
+        "id": 10,
+        "nombreP": "Encriptador con JS",  
+        "descripcionP": "Siguiendo las reglas de ingreso de texto, se puede introducir el texto que se desee y el mismo será encriptado y se podrá copiar el mismo y pegar en el recuadro correspondiente para ser desencriptado",
+        "imgP": "https://imgbox.com/wB96I0hG",
+        "fechaP": "Agosto 2024",
+        "linkP": "https://debiabril.github.io/encriptador/"
+    },{
         "id": 9,
         "nombreP": "JS Número secreto",  
         "descripcionP": "Juego de adivinar el número secreto realizado con JS",
